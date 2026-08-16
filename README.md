@@ -20,7 +20,7 @@ Artificial Intelligence & Data Science Student | Aspiring ML Engineer | Problem 
 - 🌱 Currently improving my skills in **Python, Java, HTML, CSS and JavaScript**
 - 🚀 Interested in building **real-world AI-based applications**
 - 🏆 Solved **250+ coding problems on CodeChef**
-- ⭐ Achieved **4-Star on HackerRank**
+  
 - 📚 Completed an **NPTEL course with 75%**
 
 ---
@@ -112,7 +112,7 @@ innovative technology solutions as an **entrepreneur**.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini252008&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/harini252008&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini252008&layout=compact&theme=tokyonight&hide_border=true"/>
 
