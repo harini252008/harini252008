@@ -108,36 +108,6 @@ innovative technology solutions as an **entrepreneur**.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini252008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini252008&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini252008&theme=tokyo-night"/>
-
-</p>
-
----
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini252008&theme=tokyo-night"/>
-
-</p>
-
 ---
 
 # 🚀 Currently Working On
